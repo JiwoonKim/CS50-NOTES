@@ -1,4 +1,4 @@
-# CS50 Pset (Sentimental): Pset1 to Pset3
+# CS50 Pset Sentimental: Pset1 to Pset3
 
 > Sentimental record for my experience in CS50x from 2016 to 2018.
 
