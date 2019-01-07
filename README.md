@@ -19,9 +19,10 @@
   > learned how to use conditions and loops
   > helped get familiar with using standard I/O (using CS50's training wheels: get_int()).
   
-- credit: a program that determines whether a provided credit card number is valid according to Luhn’s algorithm.
-         (the less comfortable version was to implement cash.c which was a program that calculates the minimum number of coins required to give a user change)
-  > learned how to implement a greedy algorithm.
+- credit: a program that determines whether a provided credit card number is valid according to Luhn’s algorithm (If valid, print the which company it belongs to:American Express, MasterCard, or Visa).
+  > learned how to use various math functions and operators to interact with numeral values.
+  --the less comfortable version was to implement cash.c which was a program that calculates the minimum number of coins required to give a user change)
+  > learned how to implement a greedy algorithm and know how to handle the inherent imprecision of floating-point values
 
 ## Pset2: crack
 > Initially, solved
