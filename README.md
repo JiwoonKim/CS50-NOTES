@@ -8,11 +8,12 @@
 
 ## Pset1: hello, mario, credit
 > Initially solved hello, mario(less comfortable), credit(less comfortable) in C language in January, 2016.
+
 > Solved in Python in June, 2018.
 - hello: a simple program printing "hello" on screen.
->> first program in C, getting to know how to compile(using the make utility configured by CS50) and execute a .c file.
+  > first program in C, getting to know how to compile(using the make utility configured by CS50) and execute a .c file.
 - mario: a program that prints out a full-pyramid of a specified height given by user.
->> learned how to use conditions and loops, got familiar with using I/O (using CS50's training wheels: get_int())
+  > learned how to use conditions and loops, got familiar with using I/O (using CS50's training wheels: get_int())
 - credit:
 >>
 
