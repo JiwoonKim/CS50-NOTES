@@ -17,6 +17,7 @@
   
 - mario: a program that prints out a full-pyramid of a specified height given by user.
     - the less comfortable version: print out a half-pyramid.
+    
   > learned how to use conditions and loops
   > helped get familiar with using standard I/O (using CS50's training wheels: get_int()).
   
@@ -37,7 +38,7 @@
 
 - crack: a program that cracks passwords encryped by C's DES-based crypt function (hash function).
     
-  > learned about encryption and decryption, hash funcitons, ASCII values, how to use command-line arguments in programs, manipulate strings, and convert chars to integers.
+> learned about encryption and decryption, hash funcitons, ASCII values, how to use command-line arguments in programs, manipulate strings, and convert chars to integers.
       
 ## Pset3: fifteen
 > Initially, Pset3 was to implement a game of fifteen in 2016. 
