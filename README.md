@@ -7,7 +7,7 @@
 > Couldn't find the files for previous Pset solutions (the less comfortable versions from pset1 to pset3) I had implemented in C, so saving the solutions for the more comfortable versions implemented in Python for pset6 sentimentals part.
 
 
-## Pset1: hello, mario, credit
+## Pset1: hello, mario, cash, credit
 > Initially solved hello, mario(less comfortable version), cash(the less comfortable version) in C language in January, 2016.
 
 > Solved hello, mario(more comfortable version), cash(the more comfortable version) in Python language in June, 2018.
@@ -27,7 +27,7 @@
     
       > learned how to implement a greedy algorithm and how to handle the inherent imprecision of floating-point values.
 
-## Pset2: crack
+## Pset2: caesar, vigenère, crack
 > Initially, solved caesar(the less comfortable version), vigeniere(the less comfortable version) in C language in January, 2016.
 
 > Solved crack(the more comfortable version) in Python in June, 2018.
