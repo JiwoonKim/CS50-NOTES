@@ -1,10 +1,10 @@
-# CS50 Psets: General Programming ( from Pset1 to Pset5 )
+# CS50 Psets: Computer Science and General Programming ( from Pset1 to Pset5 )
 
 > Sentimental record for my experience in CS50x from 2016 to 2018.
 
-> Problem Sets (Psets) from 1 to 6:Sentimentals.
+> Problem Sets (Psets) from 1 to 5.
 
-> Couldn't find the files for previous Pset solutions (the less comfortable versions from pset1 to pset3) I had implemented in C, so saving the solutions for the more comfortable versions implemented in Python for pset6 sentimentals part.
+> Couldn't find the files for previous Pset solutions (the less comfortable versions from pset1 to pset3) I had implemented in C, so saving the solutions for the more comfortable versions implemented in Python for pset6 sentimentals part instead.
 
 
 ## Pset1: hello, mario, cash, credit
@@ -32,40 +32,29 @@
 
 > Solved crack(the more comfortable version) in Python in June, 2018.
 
-- crack: a program that cracks passwords.
+- crack: a program that cracks passwords encryped by C's DES-based crypt function (hash function).
     - the less comfortable version - caesar: a program that encrypts messages using Caesar’s cipher.
     - the less comfortable version - vigenère: a program that encrypts messages using Vigenère’s cipher.
     
-  > learned about encryption and decryption, ASCII values, how to use command-line arguments in programs, manipulate strings, and convert chars to integers.
+  > learned about encryption and decryption, hash funcitons, ASCII values, how to use command-line arguments in programs, manipulate strings, and convert chars to integers.
       
 ## Pset3: fifteen
-> Initially, Pset3 was to implement a game of fifteen in 2016.
+> Initially, Pset3 was to implement a game of fifteen in 2016. Unfortunately, could not find source code I implemented.
 
-> Unfortunately, could not find source code I implemented.
+## Pset4: whodunit, resize, recover
+> Solved whodunit, resize(more comfortable version), recover in C language in July, 2018.
 
+- whodunit: a program that reveals a hidden message in a BMP by removing the red noise in it.
+  > 
+  
+- resize: a program that resizes (shrinks or enlarges) BMPs by a factor of f given by the user.
+  > 
+  
+- recover: a program that recovers JPEGs from a forensic image
+  > 
+  
+## Pset5: speller
+> Solved speller in C language in July, 2018.
 
-## Pset4: 
-> Initially solved hello, mario(less comfortable version), cash(the less comfortable version) in C language in January, 2016.
-
-> Solved hello, mario(more comfortable version), cash(the more comfortable version) in Python language in June, 2018.
-
-- hello: a simple program printing "hello" on the screen.
+- speller: a program that spell-checks a file.
   > first program in C, getting to know how to compile(using the make utility configured by CS50) and execute a .c file.
-  
-- mario: a program that prints out a full-pyramid of a specified height given by user.
-    - the less comfortable version: print out a half-pyramid.
-  > learned how to use conditions and loops
-  > helped ge
-  
-## Pset5: 
-> Initially solved hello, mario(less comfortable version), cash(the less comfortable version) in C language in January, 2016.
-
-> Solved hello, mario(more comfortable version), cash(the more comfortable version) in Python language in June, 2018.
-
-- hello: a simple program printing "hello" on the screen.
-  > first program in C, getting to know how to compile(using the make utility configured by CS50) and execute a .c file.
-  
-- mario: a program that prints out a full-pyramid of a specified height given by user.
-    - the less comfortable version: print out a half-pyramid.
-  > learned how to use conditions and loops
-  > helped ge
