@@ -1,9 +1,10 @@
 # CS50 Pset (Sentimental): Pset1 to Pset3
 
-> Part of CS50's Pset 6 (Sentimental)
 > Sentimental record for my experience in CS50x from 2016 to 2018.
-> Implementing previous Psets in Python instead to practice Python's syntax.
-> (Couldn't find the files for previous Pset solutions I had implemented in C, so saving these Python files instead to record)
+
+> Part of CS50's Pset 6 (Sentimental). Implemented previous Psets in Python to practice Python's syntax.
+
+> (Couldn't find the files for previous Pset solutions I had implemented in C, so saving these Python files instead for recollection)
 
 ## Pset1: hello, mario, credit
 > Initially solved hello, mario(less comfortable), credit(less comfortable) in C language in January, 2016.
