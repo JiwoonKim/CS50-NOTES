@@ -1,4 +1,8 @@
-// recovers JPEGs from a forensic image
+/* recovers JPEGs from a forensic image
+   use by ./recover card.raw
+   card.raw is the forensic image of the memory card used in CS50 pset4,
+   only contains a few megabytes of the memory card but contains 50 JPEGS.
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
