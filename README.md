@@ -6,7 +6,7 @@
 
 > Couldn't find the files for previous Pset solutions (the less comfortable versions from pset1 to pset3) I had implemented in C, so saving the solutions for the more comfortable versions implemented in Python for pset6 sentimentals part instead.
 
-> [For Pset 6 to Pset 8](https://github.com/JiwoonKim/CS50-Pset-Web-Programming)
+> For following Psets: [Solutions for Pset 6 to Pset 8](https://github.com/JiwoonKim/CS50-Pset-Web-Programming)
 
 
 ## Pset1: hello, mario, cash, credit
