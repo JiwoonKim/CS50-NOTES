@@ -63,6 +63,7 @@
 > Solved speller in C language in July, 2018.
 
 - speller:  a program that spell-checks a file after loading a dictionary of words from disk into memory.
+    - implemented functions check, load, size, unload in dictionary.c to be used in speller.c.
 
   > learned how to create a functions for a header file (c file -> h file), how to use pointers
   
