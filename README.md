@@ -41,21 +41,21 @@
 > learned about encryption and decryption, hash funcitons, ASCII values, how to use command-line arguments in programs, manipulate strings, and convert chars to integers.
       
 ## Pset3: fifteen
-> Initially, Pset3 was to implement a game of fifteen in 2016. 
+> Initially, Pset3 was to implement a game of fifteen in February, 2016. 
 
 > Unfortunately, could not find source code I implemented.
 
 ## Pset4: whodunit, resize, recover
-> Solved whodunit, resize(more comfortable version), recover in C language in July, 2018.
+> Solved whodunit, resize(more comfortable version), recover in C language in February, 2016 and in July, 2018.
 
 - whodunit: a program that reveals a hidden message in a BMP by removing the red noise in it.
-  > 
-  
+  > learned how an image file is constructed by bits, specifically how a BMP file is formatted in hexadecimals to represent RGB in pixels.Also learned how to use header files, structs, and got familiar with using file I/O.
+
 - resize: a program that resizes (shrinks or enlarges) BMPs by a factor of f given by the user.
-  > 
+  > learned how to dynamically allocate memory using malloc and use valgrind to debug and check memory leaks.
   
-- recover: a program that recovers JPEGs from a forensic image
-  > 
+- recover: a program that recovers JPEGs from a forensic image (.raw file).
+  > learned how a JPEG file is formatted and about the FAT file system and blocks. 
   
 ## Pset5: speller
 > Solved speller in C language in July, 2018.
