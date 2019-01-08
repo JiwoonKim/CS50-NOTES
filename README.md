@@ -20,11 +20,11 @@
 - `mario`: a program that prints out a full-pyramid of a specified height given by user.
     - the less comfortable version: print out a half-pyramid.
     
-  > learned how to use conditions and loops
+  > learned how to use conditions and loops.
   > helped get familiar with using standard I/O (using CS50's training wheels: get_int()).
   
 - `cash`: a program that calculates the minimum number of coins required to give a user change.
-  > learned how to implement a greedy algorithm and how to handle the inherent imprecision of floating-point values.
+  > learned how to implement a __Greedy algorithm__ and how to handle the inherent imprecision of floating-point values.
   
 - `credit`: a program that determines whether a provided credit card number is valid according to Luhn’s algorithm (If valid, print the which company it belongs to:American Express, MasterCard, or Visa).
   > learned how to use various math functions and operators to interact with numeral values.
@@ -40,7 +40,7 @@
 
 - `crack`: a program that cracks passwords encryped by C's DES-based crypt function (hash function).
     
-> learned about encryption and decryption, hash funcitons, ASCII values, how to use command-line arguments in programs, manipulate strings, and convert chars to integers.
+> learned about __encryption and decryption__, hash funcitons, ASCII values, how to use command-line arguments in programs, manipulate strings, and convert chars to integers.
       
 ## Pset3: fifteen
 > Initially, Pset3 was to implement a game of fifteen in February, 2016. 
@@ -51,7 +51,7 @@
 > Solved whodunit, resize(more comfortable version), recover in C language in February, 2016 and in July, 2018.
 
 - `whodunit`: a program that reveals a hidden message in a BMP by removing the red noise in it.
-  > learned how an image file is constructed by bits, specifically how a BMP file is formatted in hexadecimals to represent RGB in pixels.
+  > learned how an __Image file__ is constructed by bits, specifically how a BMP file is formatted in hexadecimals to represent RGB in pixels.
   
   > Also learned how to use header files, structs, and got familiar with using file I/O.
 
@@ -59,7 +59,7 @@
   > learned how to dynamically allocate memory using malloc and use valgrind to debug and check memory leaks.
   
 - `recover`: a program that recovers JPEGs from a forensic image (.raw file).
-  > learned how a JPEG file is formatted and about the FAT file system and blocks. 
+  > learned how a JPEG file is formatted and about the __FAT file system__ and blocks. 
   
 ## Pset5: speller
 > Solved speller in C language in July, 2018.
@@ -69,4 +69,4 @@
 
   > learned how to create a functions for a header file (c file -> h file), how to use pointers
   
-  > Also learned how to implement data structures, specifically a trie for constructing a dictionary dynamically in the memory.
+  > Also learned how to implement __Data structures__, specifically a trie for constructing a dictionary dynamically in the memory.
