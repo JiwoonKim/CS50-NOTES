@@ -1,5 +1,7 @@
-// Copies a BMP file
-
+/* Resizes a BMP file
+   use by ex) ./resize .25 large.bmp small.bmp
+              ./resize 4 small.bmp large.bmp
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
