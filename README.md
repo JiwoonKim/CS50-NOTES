@@ -49,7 +49,9 @@
 > Solved whodunit, resize(more comfortable version), recover in C language in February, 2016 and in July, 2018.
 
 - whodunit: a program that reveals a hidden message in a BMP by removing the red noise in it.
-  > learned how an image file is constructed by bits, specifically how a BMP file is formatted in hexadecimals to represent RGB in pixels.Also learned how to use header files, structs, and got familiar with using file I/O.
+  > learned how an image file is constructed by bits, specifically how a BMP file is formatted in hexadecimals to represent RGB in pixels.
+  
+  > Also learned how to use header files, structs, and got familiar with using file I/O.
 
 - resize: a program that resizes (shrinks or enlarges) BMPs by a factor of f given by the user.
   > learned how to dynamically allocate memory using malloc and use valgrind to debug and check memory leaks.
@@ -60,6 +62,8 @@
 ## Pset5: speller
 > Solved speller in C language in July, 2018.
 
-- speller: a program that spell-checks a file.
+- speller:  a program that spell-checks a file after loading a dictionary of words from disk into memory.
 
-  > first program in C, getting to know how to compile(using the make utility configured by CS50) and execute a .c file.
+  > learned how to create a functions for a header file (c file -> h file), how to use pointers
+  
+  > Also learned how to implement data structures, specifically a trie for a dictionary of words.
