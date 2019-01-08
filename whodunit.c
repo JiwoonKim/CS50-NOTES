@@ -1,5 +1,7 @@
-// Copies a BMP file
-
+/* Reveals a clue from the BMP file by clearing the red noise.
+   use by ./whodunit clue.bmp verdict.bmp
+   clue.bmp is a file containing a clue covered by red noise, given by CS50 to solve pset 4.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
