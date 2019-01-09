@@ -3,6 +3,11 @@
 > Solutions implemented for `CS50x` from 2016 to 2018.
 
 > Problem Sets (Psets): `Pset 1 to Pset 5`.
+  - [Pset1](#pset1-hello-mario-cash-credit)
+  - [Pset2](#pset2-caesar-vigenère-crack)
+  - [Pset3](#pset3-fifteen)
+  - [Pset4](#pset4-whodunit-resize-recover)
+  - [Pset5](#pset5-speller)
 
 > Couldn't find the files for previous Pset solutions (the less comfortable versions from pset1 to pset3) I had implemented in C, so saving the solutions for the more comfortable versions implemented in Python for pset6 sentimentals part instead.
 
