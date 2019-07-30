@@ -3,18 +3,13 @@
 > Solutions implemented for `CS50x` from 2016 to 2018.
 
 > Problem Sets (Psets): `Pset 1 to Pset 5`.
-  - [Pset1](#pset1-hello-mario-cash-credit)
-  - [Pset2](#pset2-caesar-vigenère-crack)
-  - [Pset3](#pset3-fifteen)
-  - [Pset4](#pset4-whodunit-resize-recover)
-  - [Pset5](#pset5-speller)
 
 > Couldn't find the files for previous Pset solutions (the less comfortable versions from pset1 to pset3) I had implemented in C, so saving the solutions for the more comfortable versions implemented in Python for pset6 sentimentals part instead.
 
 > For following Psets: [Solutions for Pset 6 to Pset 8](https://github.com/JiwoonKim/CS50-Pset-Web-Programming)
 
 
-## Pset1: hello, mario, cash, credit
+## :bulb: Pset1: hello, mario, cash, credit
 > Initially solved hello, mario(less comfortable version), cash(the less comfortable version) in C language in January, 2016.
 
 > Solved hello, mario(more comfortable version), cash(the more comfortable version) in Python language in June, 2018.
@@ -34,7 +29,7 @@
 - `credit`: a program that determines whether a provided credit card number is valid according to Luhn’s algorithm (If valid, print the which company it belongs to:American Express, MasterCard, or Visa).
   > learned how to use various math functions and operators to interact with numeral values.
 
-## Pset2: caesar, vigenère, crack
+## :bulb: Pset2: caesar, vigenère, crack
 > Initially, solved caesar(the less comfortable version), vigeniere(the less comfortable version) in C language in January, 2016.
 
 > Solved crack(the more comfortable version) in Python in June, 2018.
@@ -47,12 +42,12 @@
     
 > learned about __encryption and decryption__, hash funcitons, ASCII values, how to use command-line arguments in programs, manipulate strings, and convert chars to integers.
       
-## Pset3: fifteen
+## :bulb: Pset3: fifteen
 > Initially, Pset3 was to implement a game of fifteen in February, 2016. 
 
 > Unfortunately, could not find source code I implemented.
 
-## Pset4: whodunit, resize, recover
+## :bulb: Pset4: whodunit, resize, recover
 > Solved whodunit, resize(more comfortable version), recover in C language in February, 2016 and in July, 2018.
 
 - `whodunit`: a program that reveals a hidden message in a BMP by removing the red noise in it.
@@ -66,7 +61,7 @@
 - `recover`: a program that recovers JPEGs from a forensic image (.raw file).
   > learned how a JPEG file is formatted and about the __FAT file system__ and blocks. 
   
-## Pset5: speller
+## :bulb: Pset5: speller
 > Solved speller in C language in July, 2018.
 
 - `dictionary`: a program that contains the functions for loading a dictionary from disk to memory, spell-checking each word in a file based on the dictionary, counting the total number of words in the dictionary, and finally unloading the dynamically allocated dictionary from memory.
